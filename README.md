@@ -1,6 +1,6 @@
 # MENCIÓN IMPORTANTE
 
-Este programa ha sido desarrollado en conjunto con una amiga; **Victoria Hadjieva**.
+Este programa ha sido desarrollado en conjunto con una `AMIGA`; **Victoria Hadjieva**.
 
 ## 2048 - Lógica y Estructura
 
