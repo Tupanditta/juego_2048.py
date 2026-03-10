@@ -303,7 +303,7 @@ def juego():
     print("______ BIENVENIDO AL JUEGO 2048 ______")
     print() #Visual
 
-    tablero = [[2, 2, 1024, 1024], [2, 2, 1024, 1024], [2, 4, 8, 2], [2, 4, 8, 2]]
+    tablero = iniciar_juego() #[[2, 2, 1024, 1024], [2, 2, 1024, 1024], [2, 4, 8, 2], [2, 4, 8, 2]]
     mostrar_juego(tablero)
     print() #Visual
     
@@ -341,4 +341,5 @@ def juego():
     
 ##########      JUGAR
 juego()
+
 
